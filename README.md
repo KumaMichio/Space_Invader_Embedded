@@ -71,9 +71,8 @@ Project cuối kỳ phát triển trò chơi Space Invader trên vi điều khi�
 Sử dụng Git để tải source code từ GitHub:
 
 ```bash
-git clone https://github.com/your_username/space-invader-stm32.git
-cd space-invader-stm32
-
+git clone https://github.com/KumaMichio/Space_Invader_Embedded.git
+```
 
 #### Mô tả các module chính  
 
@@ -96,9 +95,8 @@ cd space-invader-stm32
 #### Kết quả  
 
 - Game chạy ổn định trên board thật.  
-- Có thể điều khiển mượt bằng joystick.  
+- Có thể điều khiển bằng các nút bấm.  
 - Giao diện hiển thị đẹp và rõ ràng.  
-- Có video demo quá trình chơi game: [Video Link](#)
 
 #### Đánh giá  
 
@@ -117,4 +115,3 @@ cd space-invader-stm32
 
 ---
 
-Nếu em cần **bản Word, Markdown, hoặc trình bày slide**, cứ nói em nhé.
