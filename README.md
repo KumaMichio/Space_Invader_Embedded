@@ -75,13 +75,6 @@ git clone https://github.com/KumaMichio/Space_Invader_Embedded.git
 
 #### Mô tả các module chính  
 
-- `main.c`: khởi tạo hệ thống, start scheduler  
-- `game.c/.h`: quản lý trạng thái game  
-- `player.c/.h`: điều khiển tàu người chơi  
-- `enemy.c/.h`: xử lý kẻ địch  
-- `graphics.c/.h`: giao tiếp với TouchGFX  
-- `sound.c/.h`: phát âm thanh đơn giản  
-- `FreeRTOSConfig.h`: cấu hình hệ điều hành  
 
 #### Đóng góp của từng thành viên  
 
