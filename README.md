@@ -11,7 +11,6 @@ Project cuối kỳ phát triển trò chơi Space Invader trên vi điều khi�
   - [TouchGFX Designer](#2-cài-đặt-touchgfx-designer)
   - [Các công cụ hỗ trợ khác](#3-các-công-cụ-hỗ-trợ-khác)
 - [Cách build và chạy project](#cách-build-và-chạy-project)
-- [Cấu trúc thư mục](#cấu-trúc-thư-mục)
 - [Đóng góp](#đóng-góp)
 
 ---
@@ -88,30 +87,6 @@ git clone https://github.com/KumaMichio/Space_Invader_Embedded.git
 
 | Tên thành viên    | Đóng góp chính | Số commit |
 |-------------------|----------------|------------|
-| Phan Sỹ Hùng      | Logic game, enemy | 40         |
-| Hoàng Đức Cường   | TouchGFX UI, joystick | 35         |
-| Nguyễn Trọng Hinh | FreeRTOS, sound, README | 30         |
-
-#### Kết quả  
-
-- Game chạy ổn định trên board thật.  
-- Có thể điều khiển bằng các nút bấm.  
-- Giao diện hiển thị đẹp và rõ ràng.  
-
-#### Đánh giá  
-
-- **Đạt được:**  
-+ Đáp ứng đầy đủ yêu cầu chức năng và phi chức năng.  
-+ Giao diện đẹp, game chơi được, cấu trúc rõ ràng.  
-
-- **Ưu điểm:**  
-+ Áp dụng tốt FreeRTOS  
-+ Phân chia module hợp lý  
-+ Dễ mở rộng (có thể thêm nhiều cấp độ, hiệu ứng âm thanh)  
-
-- **Nhược điểm:**  
-+ Đồ họa còn đơn giản  
-+ Không có lưu điểm cao  
-
----
-
+| Phan Sỹ Hùng      | Logic game, enemy |          |
+| Hoàng Đức Cường   | TouchGFX UI, joystick |          |
+| Nguyễn Trọng Hinh | FreeRTOS, sound, README |          |
